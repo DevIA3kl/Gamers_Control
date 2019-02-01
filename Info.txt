@@ -2,7 +2,7 @@ I.A_Venev_Neko-2
 https://discordapp.com/channels/426511769687556107/485463474055413772
 https://mega.nz/#!AtVCFAKS!OstWotFtatGGtJxVkScyXKp4xpEvoCJPX49nlDobd8I
 Warning..! leaving discord will forced to turn Verify_Status (On)
-Status : Off
+Verify_Status : Off
 13
 4E09E27906C79A41C366E365AAF8B292,
 3E12395DCE1BAE5EEEFABF0F46C39F60,
