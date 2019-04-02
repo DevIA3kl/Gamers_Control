@@ -9,3 +9,6 @@
 - Change Welcome msg|Sound Effect.
 - Changed Process Diagnostics, High.
 - More Reduced Client Trash Codes.
+
+Want to Know more ?! [Gamer's Control Official Discord Group]
+https://discord.gg/Uw8Apaf
