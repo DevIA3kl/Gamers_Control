@@ -1,7 +1,7 @@
 # Gamers_Control V4.9.2|
 - Control Rich Presence.
 - Control Process Priority Class In GC.
-- Add Music Streaming Server.
+- Added Music Streaming Server.
 - Reduce Client forum size.
 - Make client interface more simple.
 - Remove GC Card.
