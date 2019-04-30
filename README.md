@@ -1,4 +1,4 @@
-# Gamers_Control V4.9.5|
+# Gamers_Control V4.9.5| Best S4 Macro Collection
 
 - Upgrade Rich Presence user's Type.
 - Convert Rich Presence from Time left, To Elapsed Runtime.
