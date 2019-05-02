@@ -1,15 +1,16 @@
-# Gamers_Control V4.9.5| Best S4 Macro Collection
+# Gamers_Control V5.0.0| Best S4 Macro Collection
 
-- Upgrade Rich Presence user's Type.
-- Convert Rich Presence from Time left, To Elapsed Runtime.
-- Fixed Server Info's.
-- Fixed New's (label. / rich presence).
-- Anti Fps ( drop/game crashed ) s4 league.
-- Fixed Show Music Runtime.
-- Added New Checkpoint Security System.
-- Fixed Online Counter.
+- Added Duration Event |Music.
+- Edit some setting to improve Client.
+- Fixed |No Muisc Buged.
+- Embed GC Dlls.
+- Fixed DLL package.
+- Fixed play client error handle.
+- Client more response.
+- Fix crashed Delay.
+- Fixed Online Counter Buged.
 
-VirusTotal Checker : https://www.virustotal.com/en/file/e86df0bdfd0a7544d92b62c67f24cc63b10c4ecc8d449b8bc105e70a24b73fad/analysis/1556516167/
+VirusTotal Checker : Under Uploading...
 
 _____________________________
 
