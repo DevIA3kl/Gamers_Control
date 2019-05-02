@@ -1,7 +1,7 @@
 # Gamers_Control V5.0.0| Best S4 Macro Collection
 
 - Added Duration Event |Music.
-- Edit some setting to improve Client.
+- Edit Settings To Improve Client.
 - Fixed |No Muisc Buged.
 - Embed GC Dlls.
 - Fixed DLL package.
