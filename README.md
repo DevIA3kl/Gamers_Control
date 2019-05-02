@@ -5,9 +5,9 @@
 - Fixed |No Muisc Buged.
 - Embed GC Dlls.
 - Fixed DLL package.
-- Fixed play client error handle.
+- Fixed Play Error Handle.
 - Client more response.
-- Fix crashed Delay.
+- Fix Crashed Delay.
 - Fixed Online Counter Buged.
 
 VirusTotal Checker : Under Uploading...
