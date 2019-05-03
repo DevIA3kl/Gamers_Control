@@ -10,7 +10,7 @@
 - Fix Crashed Delay.
 - Fixed Online Counter Buged.
 
-VirusTotal Checker : Under Uploading...
+VirusTotal Checker : https://www.virustotal.com/en/file/d1c20089a583821dbf64977c626d5561d9d93c5baa094a13283333beddcd2414/analysis/1556863436/
 
 _____________________________
 
