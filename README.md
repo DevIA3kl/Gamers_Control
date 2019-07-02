@@ -1,16 +1,12 @@
-# Gamers_Control V5.0.0| Best S4 Macro Collection
+# Gamers_Control V5.2.0| Best S4 Macro Collection
 
-- Added Duration Event |Music.
-- Edit Settings To Improve Client.
-- Fixed |No Muisc Buged.
-- Embed GC Dlls.
-- Fixed DLL package.
-- Fixed Play Error Handle.
-- Client more response.
-- Fix Crashed Delay.
-- Fixed Online Counter Buged.
+- Airhug Added keys (C)
+- Speed Counter Added keys (Z)
+- Control in which S4 Version you playing.
+- Fixing Login Timeout 100%.
+- Hide/Show S4 Icon taskbar.
 
-VirusTotal Checker : https://www.virustotal.com/en/file/d1c20089a583821dbf64977c626d5561d9d93c5baa094a13283333beddcd2414/analysis/1556863436/
+VirusTotal Checker : will upload soon ^)
 
 _____________________________
 
