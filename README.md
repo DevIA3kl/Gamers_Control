@@ -1,10 +1,13 @@
-# Gamers_Control V5.2.0| Best S4 Macro Collection
+# Gamers_Control V5.3.0| Best S4 Macro Collection
 
-- Airhug Added keys (C)
-- Speed Counter Added keys (Z)
-- Control in which S4 Version you playing.
-- Fixing Login Timeout 100%.
-- Hide/Show S4 Icon taskbar.
+- fixed minimized Client in taskbar.
+- Automatic start Client Home When Verify.
+- fixed online count updating daily/runtime counting.
+- Changed Design.
+- Save Last Activated Macros After Closing.
+- Reduce Client Code, Add Handle Threads[Fast Client Perform].
+- Fixed Stream music function.
+- fixing macros buged script.
 
 VirusTotal Checker : will upload soon ^)
 
