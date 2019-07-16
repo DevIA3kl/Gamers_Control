@@ -1,13 +1,13 @@
 # Gamers_Control V5.3.0| Best S4 Macro Collection
 
-- fixed minimized Client in taskbar.
+- Fixed minimized Client in taskbar.
 - Automatic start Client Home When Verify.
 - fixed online count updating daily/runtime counting.
 - Changed Design.
 - Save Last Activated Macros After Closing.
 - Reduce Client Code, Add Handle Threads[Fast Client Perform].
 - Fixed Stream music function.
-- fixing macros buged script.
+- Fixing macros buged script.
 
 VirusTotal Checker : will upload soon ^)
 
