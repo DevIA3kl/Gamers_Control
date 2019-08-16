@@ -14,7 +14,7 @@
 - Fixed Panel ScrollBar.
 - GC Setup exe.
 
-VirusTotal Checker : will upload soon ^)
+VirusTotal Checker : https://www.virustotal.com/gui/file/ebd4699e7b2534b4dce27d50ccdf5609378da038d58cc2ceb7958aa9e177c636/detection
 
 _____________________________
 
