@@ -1,13 +1,18 @@
-# Gamers_Control V5.3.0| Best S4 Macro Collection
+# Gamers_Control V5.5.0| Best S4 Macro Collection
 
-- Fixed minimized Client in taskbar.
-- Automatic start Client Home When Verify.
-- fixed online count updating daily/runtime counting.
-- Changed Design.
-- Save Last Activated Macros After Closing.
-- Reduce Client Code, Add Handle Threads[Fast Client Perform].
-- Fixed Stream music function.
-- Fixing macros buged script.
+- Remove Checking Functions
+- Fixed Client To work for both 32,64 bits 
+ [Operation System].
+- Remove welcome msg.
+- Removed useless functions.
+- Fixed Stream music End List.
+- Fixed start keys (insert/+).
+- Added new Start Keys.
+- Fixed Delay time (start/stop) macros.
+- Removed GC rich presence.
+- Fixed Client runtime.
+- Fixed Panel ScrollBar.
+- GC Setup exe.
 
 VirusTotal Checker : will upload soon ^)
 
