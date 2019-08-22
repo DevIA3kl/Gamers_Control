@@ -1,21 +1,14 @@
-# Gamers_Control V5.5.0| Best S4 Macro Collection
+# Gamers_Control V5.8.0| Best S4 Macro Collection| 22.08.2019
 
-- Remove Checking Functions
-- Fixed Client To work for both 32,64 bits 
- [Operation System].
-- Remove welcome msg.
-- Removed useless functions.
-- Fixed Stream music End List.
-- Fixed start keys (insert/+).
-- Added new Start Keys.
-- Fixed Delay time (start/stop) macros.
-- Removed GC rich presence.
-- Fixed Client runtime.
-- Fixed Panel ScrollBar.
-- GC Setup exe.
+- Total Fixed Client Work for OS [X32, X64].
+- Added new Cool Stuff (PC Username / Date And Time).
+- Fixed Save last Macros Played.
+- Fixed Close Delay.
+- Updated components.
+- Fixed Instant Air Block.
 
-VirusTotal Checker : https://www.virustotal.com/gui/file/ebd4699e7b2534b4dce27d50ccdf5609378da038d58cc2ceb7958aa9e177c636/detection
-
+VirusTotal Checker : {old} https://www.virustotal.com/gui/file/ebd4699e7b2534b4dce27d50ccdf5609378da038d58cc2ceb7958aa9e177c636/detection
+{new} , Soon
 _____________________________
 
 # Rich Presence By Gamer's Control |V1.0.0
