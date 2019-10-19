@@ -1,11 +1,8 @@
-# Gamers_Control V5.8.0| Best S4 Macro Collection| 22.08.2019
+# Gamers_Control V6.0.0| Best S4 Macro Collection| 19.10.2019
 
-- Total Fixed Client Work for OS [X32, X64].
-- Added new Cool Stuff (PC Username / Date And Time).
-- Fixed Save last Macros Played.
-- Fixed Close Delay.
-- Updated components.
-- Fixed Instant Air Block.
+- Return Verify Process.
+- Client more Faster than before.
+- Fixed App Interface Buged.
 
 VirusTotal Checker : {old} https://www.virustotal.com/gui/file/ebd4699e7b2534b4dce27d50ccdf5609378da038d58cc2ceb7958aa9e177c636/detection
 {new} , Soon
